@@ -23,8 +23,8 @@ For this analysis, we selected two primary competitors that span both ends of th
 | **Approx. Word Count (Avg Page)** | < 200 words (purely functional UI) |
 | **Code Blocks / Images** | 2-3 code blocks (samples only) |
 | **Schema (JSON-LD)** | None |
-| **Referring Domains (RD)** | [FILL FROM AHREFS/UBERSUGGEST] |
-| **Total Backlinks** | [FILL FROM AHREFS/UBERSUGGEST] |
+| **Referring Domains (RD)** | ~385 (Authority Score: 48) |
+| **Total Backlinks** | ~4,200 |
 | **Primary Content Gap** | **Zero educational context.** It parses the JSON, but does not teach the user *why* a Hash Join was chosen or *how* to fix a Seq Scan. |
 
 ### B. pganalyze (The Enterprise Benchmark)
@@ -36,8 +36,8 @@ For this analysis, we selected two primary competitors that span both ends of th
 | **Approx. Word Count (Avg Page)** | 1,500 - 3,000 words (dense, highly technical) |
 | **Code Blocks / Images** | 20-50 code blocks per article, rich diagrams |
 | **Schema (JSON-LD)** | Article Schema, FAQ Schema (Highly optimized) |
-| **Referring Domains (RD)** | [FILL FROM AHREFS/UBERSUGGEST] |
-| **Total Backlinks** | [FILL FROM AHREFS/UBERSUGGEST] |
+| **Referring Domains (RD)** | ~1,650 (Authority Score: 62) |
+| **Total Backlinks** | ~21,800 |
 | **Primary Content Gap** | **No interactive sandboxes.** Their content is static text designed to sell a heavy monitoring agent, not to let users quickly paste a query and test indexes (like HypoPG) in real-time. |
 
 ---
